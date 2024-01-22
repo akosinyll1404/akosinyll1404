@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student | Researcher | Innovator
 --------------------------------
 
-Aspiring Computer Engineer, Data Scientist, and Researcher. I am a data science student from CPE22S3 from the Technological Institute of the Philippines - Quezon City ( T.I.P. - Q.C.). I love to learn more about Automation, Artificial Intelligence, Machine Learning, Quantum Computing and Metaverse. My biggest dream is to make a project that will sustainably impact the people and the world; and enhance the research and development here in the Philippines.
+Aspiring Computer Engineer, Data Scientist, and Researcher. I am a computer engineering student from CPE22S3 from the Technological Institute of the Philippines - Quezon City ( T.I.P. - Q.C.). I love to learn more about Automation, Artificial Intelligence, Machine Learning, Quantum Computing and Metaverse. My biggest dream is to make a project that will sustainably impact the people and the world; and enhance the research and development here in the Philippines.
 
-*   🌍  I'm based in Philippines
+*   🌍  I'm based in the Philippines
 *   ✉️  You can contact me at [qjmnbdelosreyes@tip.edu.ph](mailto:qjmnbdelosreyes@tip.edu.ph)
 *   🚀  I'm currently working on [Ground2Field](http:///github.com/akosinyll1404/Ground2Field)
 *   🧠  I'm learning OOP, Data Structure & Algorithms, Python, and Web Development
