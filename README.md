@@ -7,12 +7,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🧑‍🔬 Student | Researcher | Innovator
 --------------------------------
 
-Aspiring Computer Engineer, Data Scientist, and Researcher. I am a computer engineering student from CPE22S3 from the Technological Institute of the Philippines - Quezon City ( T.I.P. - Q.C.). I love to learn more about Automation, Artificial Intelligence, Machine Learning, Quantum Computing and Metaverse. My biggest dream is to make a project that will sustainably impact the people and the world; and enhance the research and development here in the Philippines.
+Aspiring Computer Engineer, Data Scientist, and Researcher. I am a Computer Engineering student from CPE42S3 at the Technological Institute of the Philippines – Quezon City. My interests include Automation, Artificial Intelligence, Machine Learning, Quantum Computing, and the Metaverse. My ultimate goal is to create projects that deliver sustainable impact for people and communities, while contributing to the advancement of research and development in the Philippines.
 
 *   🌍  I'm based in the Philippines
 *   ✉️  You can contact me at [qjmnbdelosreyes@tip.edu.ph](mailto:qjmnbdelosreyes@tip.edu.ph)
 *   🚀  I'm currently working on [BANTAI](http:///github.com/akosinyll1404/BANTAI)
-*   🧠  I'm learning OOP, Database Management Systems, Data Structure & Algorithms, Python, Computer Networks and Web Development
+*   🧠  I'm learning Database, Cybersecurity, Machiene Learning and IoT
 *   ⚡  I always love to explore and learn new things!
 *   🐶  I love dogs and also *cats* 😻
 *   🏎️  I am a F1 and motor enthusiast!
